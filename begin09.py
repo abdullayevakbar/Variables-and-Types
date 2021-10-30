@@ -10,4 +10,8 @@ b = 3
 c = 2
 d = 4
 K =  a + b - c * d
+<<<<<<< HEAD
 print(K)
+=======
+print(K)
+>>>>>>> 051271ceb1737798467dc8000e0420d2c36fdbac
